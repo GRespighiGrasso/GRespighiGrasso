@@ -32,7 +32,7 @@ Tableau, QGIS, Google Cloud Platform, Google Optimize
 
 ---
 
-## 📂 Featured projects (coming soon)
+## 📂 Featured projects
 
 I am building a curated collection of public repositories that demonstrate:
 - Machine learning applied to economic prediction and classification
