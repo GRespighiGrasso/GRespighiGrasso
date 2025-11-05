@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Gonzalo Respighi Grasso
+# 👋 Hi, I am Gonzalo Respighi Grasso
 
-🎓 Ph.D. Candidate in Economics at UC Santa Cruz (Expected 2027)  
+🎓 Ph.D. Candidate in Economics at UC Santa Cruz (expected 2027)  
 📍 Based in Santa Cruz, CA | Originally from Argentina 🇦🇷  
-🎯 Preparing for the 2027 job market — interested in Tech Economist and Data Scientist roles
+🎯 Interested in both Economist and Data Scientist roles
 
 ---
 
 ## 👨‍💻 About me
 
-I’m an applied microeconomist and data scientist with hands-on experience designing and implementing causal inference strategies and machine learning models using large-scale, messy, real-world data.
+I am an applied microeconomist and former data scientist with hands-on experience designing and implementing causal inference strategies and machine learning models using large-scale, messy, real-world data.
 
-Before my Ph.D., I worked in the public sector, academia, and consulting — always using data to answer hard questions.
+Before starting my Ph.D., I worked in Argentina's public and private sectors, as well as in academia and independent consulting. I led and collaborated on projects involving policy evaluation, data engineering, and impact assessment, often working directly with government officials and industry stakeholders. I also taught undergraduate courses in statistics, econometrics, and microeconomics.
 
-My current research combines **econometric design**, **ML tools**, and **administrative microdata** to study housing, credit, and mobility in the U.S. and Latin America.
+Since moving to the United States in 2022, my work has focused on academic research, where I have built a broad and diverse portfolio exploring how to adapt and apply causal inference tools (which I had previously used in applied settings) to academic questions. My central research agenda focuses on residential sorting, studying how households adjust where they live in response to changes in their environment, such as rent control, improvements in public goods, or shifts in local political representation. Methodologically, I combine experimental designs, as in my work on AI-assisted persuasion, with quasi-experimental approaches like regression discontinuity, difference-in-differences, and instrumental variables, and with machine learning techniques developed during my experience in public-sector forecasting at AGIP. Across projects, I work with rich administrative microdata and aim to connect rigorous identification strategies with real-world relevance.
 
 ---
 
