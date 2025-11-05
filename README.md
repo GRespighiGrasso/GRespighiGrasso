@@ -18,57 +18,31 @@ Since moving to the United States in 2022, my work has focused on academic resea
 
 ## 🧠 Skills & Stack
 
-**Causal inference**  
-- A/B testing, Difference-in-Differences, Regression Discontinuity  
-- IV, Matching, Synthetic Control, Event Study, Double ML, Causal Forests
+**Causal inference and econometrics**  
+A/B testing, Difference-in-Differences, Regression Discontinuity, Instrumental Variables, Matching, Synthetic Control, Event Studies, Double Machine Learning, Causal Forests
 
-**Programming**  
-- Python, R, SQL, Bash  
-- PySpark for distributed pipelines  
-- APIs, web scraping, cron jobs
+**Machine learning and data science**  
+scikit-learn, XGBoost, NLP (topic modeling, sentiment analysis, classification, embeddings), SHAP, model interpretability
 
-**Data science & ML**  
-- pandas, scikit-learn, xgboost  
-- NLP (topic modeling, embeddings, sentiment classification)  
-- SHAP, feature importance, model interpretability
+**Programming and data pipelines**  
+Python, R, SQL, Bash, PySpark, web scraping, APIs, cron jobs
 
-**Data visualization & tools**  
-- Jupyter, RMarkdown, Tableau  
-- Google Cloud Platform, Google Optimize, QGIS
+**Visualization and tools**  
+Tableau, QGIS, Google Cloud Platform, Google Optimize
 
 ---
 
 ## 📂 Featured projects (coming soon)
 
-I'm building a curated collection of public repositories that demonstrate:
+I am building a curated collection of public repositories that demonstrate:
 - Machine learning applied to economic prediction and classification
 - Real-world causal inference using public datasets
 - Reproducible pipelines for data cleaning, modeling, and reporting
-- Analysis of policy-relevant datasets from the U.S., Argentina, and beyond
 
 Each project will include:
-- Jupyter notebooks or RMarkdowns with step-by-step code
+- Jupyter notebooks with step-by-step code
 - Clean folder structure and documentation
-- README summaries with results and next steps
-
----
-
-## 📰 Publications & Working Papers
-
-📄 *Quantifying specific and systemic factors in the Black-White wealth gap in the U.S.*  
-→ *Journal of Economics, Race, and Policy* (2024)
-
-📄 *Rent control and the dynamics of residential sorting*  
-→ Job Market Paper (2026)
-
-📄 *Financial incentives and pandemic performance: Evidence from US nursing homes*  
-→ Working paper
-
-📄 *The impact of generative AI through communication ability*  
-→ Experimental project on AI and persuasion
-
-More details on [Google Scholar](https://scholar.google.com/citations?user=2SLtYNAAAAAJ&hl=en)
-
+- README summaries.
 ---
 
 ## 📫 Let’s connect
@@ -76,4 +50,6 @@ More details on [Google Scholar](https://scholar.google.com/citations?user=2SLtY
 - ✉️ grespigh@ucsc.edu  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gonzalo-mart%C3%ADn-respighi-grasso-131468177/)  
 - 🔗 [GitHub](https://github.com/GRespighiGrasso)  
+- 🔗 [Google Scholar](https://scholar.google.com/citations?user=2SLtYNAAAAAJ&hl=en)
+
 
