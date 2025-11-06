@@ -32,17 +32,12 @@ Tableau, QGIS, Google Cloud Platform, Google Optimize
 
 ---
 
-## 📂 Featured projects
+## 📂 List of repositories:
 
-I am building a curated collection of public repositories that demonstrate:
-- Machine learning applied to economic prediction and classification
-- Real-world causal inference using public datasets
-- Reproducible pipelines for data cleaning, modeling, and reporting
+**1: xx**
 
-Each project will include:
-- Jupyter notebooks with step-by-step code
-- Clean folder structure and documentation
-- README summaries.
+**2: xx**
+
 ---
 
 ## 📫 Let’s connect
