@@ -2,7 +2,7 @@
 
 🎓 Ph.D. Candidate in Economics at UC Santa Cruz (expected 2027)  
 📍 Based in Santa Cruz, CA | Originally from Argentina  
-🎯 Interested in both Economist and Data Scientist roles
+🎯 Interested in Economics and Data Science
 
 ---
 
