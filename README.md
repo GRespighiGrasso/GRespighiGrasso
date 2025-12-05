@@ -34,9 +34,9 @@ Tableau, QGIS, Google Cloud Platform, Google Optimize
 
 ## 📂 List of repositories:
 
-**1: xx**
+**1: credit-risk-lendingclub:** XXX
 
-**2: xx**
+**2: customer-feedback-NLP:** XXX
 
 ---
 
