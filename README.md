@@ -2,35 +2,29 @@
 
 🎓 Ph.D. Candidate in Economics at UC Santa Cruz (expected 2027)  
 📍 Based in Santa Cruz, CA | Originally from Argentina  
-🎯 Interested in Causal inference and machine learning
+🎯 Bridging causal inference and machine learning to understand how people make decisions and how policies shape behavior.
 
 ---
 
 ## 👨‍💻 About me
 
-I am an applied microeconomist specializing in causal inference and machine learning, with hands-on experience transforming large-scale, messy, real-world data into empirical evidence that informs policy and strategic decisions. My work integrates reduced-form causal methods, predictive modeling, and modern data engineering practices, with applications in a wide range of topics.
-
-Before beginning my Ph.D., I worked in Argentina’s public sector, private sector, and independent consulting. Across these roles, I designed and implemented forecasting systems, built data pipelines, ran policy impact evaluations, and delivered empirical analyses directly to government officials and industry stakeholders. This experience shaped a practical, results-oriented perspective on how causal inference and machine learning can be applied in operational environments.
-
-Since moving to the United States in 2022, my work has focused on academic research using rich administrative microdata. My research agenda centers on residential sorting, studying how households adjust where they live in response to policy changes, public goods, or shifts in local political representation.
-
-Across industry and academia, I aim to connect rigorous identification strategies with real-world relevance: producing evidence that is not only statistically credible but also operationally meaningful.
+I am an applied microeconomist working at the intersection of causal inference, machine learning, and large-scale data systems. I specialize in turning messy, high-dimensional data into empirical evidence and deployable models that inform policy, product decisions, and strategic planning. Before starting my Ph.D., I worked across Argentina’s public sector, private sector, and independent consulting. I built forecasting pipelines, developed production-grade ML models, engineered data workflows, and led causal impact evaluations directly for government agencies and firms. In my academic work, I use rich administrative microdata to study residential sorting and household behavior. My research combines quasi-experimental methods with modern ML techniques, keeping a strong focus on external validity and real-world mechanisms. Across industry and academia, my goal is the same: to produce evidence and tools that are both statistically rigorous and operationally meaningful.
 
 ---
 
 ## 🧠 Skills
 
 **Causal inference and econometrics**  
-A/B testing, Difference-in-Differences, Regression Discontinuity, Instrumental Variables, Matching, Synthetic Control, Event Studies, Double Machine Learning, Causal Forests
+Difference-in-Differences, Regression Discontinuity, Instrumental Variables, Matching, Synthetic Control, Event Studies, A/B testing, Double Machine Learning, Causal Forests
 
-**Data science**  
-scikit-learn, XGBoost, NLP (topic modeling, sentiment analysis, classification, embeddings), SHAP, model interpretability
+**Machine learning & Statistical modeling**  
+Supervised learning (logistic/linear models, tree-based models, XGBoost, LightGBM),  unsupervised learning (clustering, topic modeling, dimensionality reduction), NLP pipelines (sentiment analysis, embeddings, transformer-based models), model evaluation & interpretability (cross-validation, SHAP, permutation importance)
 
-**Programming and data pipelines**  
-Python, R, SQL, Bash, PySpark, cron jobs
+**Programming & Data engineering**  
+Python, R, SQL, Bash, PySpark, ETL processes, cron jobs
 
-**Visualization and others**  
-Tableau, QGIS, Google Cloud Platform, Google Optimize
+**Visualization & Cloud**  
+Tableau, Power BI, QGIS, Google Cloud Platform
 
 ---
 
