@@ -2,41 +2,45 @@
 
 🎓 Ph.D. Candidate in Economics at UC Santa Cruz (expected 2027)  
 📍 Based in Santa Cruz, CA | Originally from Argentina  
-🎯 Interested in Economics and Data Science
+🎯 Interested in Causal inference and machine learning
 
 ---
 
 ## 👨‍💻 About me
 
-I am an applied microeconomist and former data scientist with hands-on experience designing and implementing causal inference strategies and machine learning models using large-scale, messy, real-world data.
+I am an applied microeconomist specializing in causal inference and machine learning, with hands-on experience transforming large-scale, messy, real-world data into empirical evidence that informs policy and strategic decisions. My work integrates reduced-form causal methods, predictive modeling, and modern data engineering practices, with applications in a wide range of topics.
 
-Before starting my Ph.D., I worked in Argentina's public and private sectors, as well as in academia and independent consulting. I led and collaborated on projects involving policy evaluation, data engineering, and impact assessment, often working directly with government officials and industry stakeholders. I also taught undergraduate courses in statistics, econometrics, and microeconomics.
+Before beginning my Ph.D., I worked in Argentina’s public sector, private sector, and independent consulting. Across these roles, I designed and implemented forecasting systems, built data pipelines, ran policy impact evaluations, and delivered empirical analyses directly to government officials and industry stakeholders. This experience shaped a practical, results-oriented perspective on how causal inference and machine learning can be applied in operational environments.
 
-Since moving to the United States in 2022, my work has focused on academic research, where I have built a broad and diverse portfolio exploring how to adapt and apply causal inference tools (which I had previously used in applied settings) to academic questions. My central research agenda focuses on residential sorting, studying how households adjust where they live in response to changes in their environment, such as rent control, improvements in public goods, or shifts in local political representation. Methodologically, I combine experimental designs, as in my work on AI-assisted persuasion, with quasi-experimental approaches like regression discontinuity, difference-in-differences, and instrumental variables, and with machine learning techniques developed during my experience in public-sector forecasting at AGIP. Across projects, I work with rich administrative microdata and aim to connect rigorous identification strategies with real-world relevance.
+Since moving to the United States in 2022, my work has focused on academic research using rich administrative microdata. My research agenda centers on residential sorting, studying how households adjust where they live in response to policy changes, public goods, or shifts in local political representation.
+
+Across industry and academia, I aim to connect rigorous identification strategies with real-world relevance: producing evidence that is not only statistically credible but also operationally meaningful.
 
 ---
 
-## 🧠 Skills & Stack
+## 🧠 Skills
 
 **Causal inference and econometrics**  
 A/B testing, Difference-in-Differences, Regression Discontinuity, Instrumental Variables, Matching, Synthetic Control, Event Studies, Double Machine Learning, Causal Forests
 
-**Machine learning and data science**  
+**Data science**  
 scikit-learn, XGBoost, NLP (topic modeling, sentiment analysis, classification, embeddings), SHAP, model interpretability
 
 **Programming and data pipelines**  
-Python, R, SQL, Bash, PySpark, web scraping, APIs, cron jobs
+Python, R, SQL, Bash, PySpark, cron jobs
 
-**Visualization and tools**  
+**Visualization and others**  
 Tableau, QGIS, Google Cloud Platform, Google Optimize
 
 ---
 
 ## 📂 List of repositories:
 
-**1: credit-risk-lendingclub:** XXX
+**1: credit-risk-lendingclub:** End-to-end machine learning pipeline for credit risk modeling using the LendingClub dataset. Includes data cleaning, feature engineering, EDA, model selection (tree-based models, logistic regression, and ensemble methods), explainability tools (SHAP, feature importance), and a reproducible workflow aligned with industry standards.
 
-**2: customer-feedback-NLP:** XXX
+**2: customer-feedback-NLP:** Comprehensive NLP toolkit for analyzing customer feedback. Covers text preprocessing, embeddings (Word2Vec, GloVe, Transformers), topic modeling, sentiment analysis, keyword extraction, and a structured pipeline. Includes theoretical notes and high-quality examples for semantic similarity and sentence embeddings.
+
+**3: structural_change:** A research-oriented and practical framework for detecting structural breaks, data drift, and concept drift in machine learning systems. Includes theory notes, simulation notebooks, Python implementations of drift detectors (ADWIN, DDM, PSI, KS tests), and real-world examples for monitoring model stability over time.
 
 ---
 
