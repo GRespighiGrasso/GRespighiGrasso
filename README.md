@@ -36,6 +36,8 @@ Tableau, Power BI, QGIS, Google Cloud Platform
 
 **3: structural_change:** A research-oriented and practical framework for detecting structural breaks, data drift, and concept drift in machine learning systems. Includes theory notes, simulation notebooks, Python implementations of drift detectors (ADWIN, DDM, PSI, KS tests), and real-world examples for monitoring model stability over time.
 
+**4: deep-learning:** XXX
+
 ---
 
 ## 📫 Let’s connect
