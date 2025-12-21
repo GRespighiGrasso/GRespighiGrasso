@@ -12,15 +12,9 @@ I am an applied microeconomist working at the intersection of causal inference, 
 
 ---
 
-## 📂 My repositories
-
-My repositories reflect how I learn, think, and work. Over time, I found that the most effective way for me to truly understand complex ideas is to articulate them clearly in writing and to illustrate them with concrete, reproducible code. Many of these repositories are therefore structured as self-contained learning and reference modules, combining theory, simulations, and implementation in a way that makes concepts easier to reason about and reuse. The tools and frameworks in these repositories come from different sources. Some were learned independently through books. Others emerged from practical constraints in my professional work, where real-world problems required me to quickly acquire, adapt, and operationalize new methods. In several cases, my work pushed me to revisit techniques I had already studied, strengthening them through production use, robustness checks, and clearer abstraction.
-
---
-
 ## 🧠 My skills
 
-*Disclaimer: The skills listed here span tools and methods I have learned through a mix of formal study, applied research, and hands-on implementation. While my depth of experience varies across topics, all listed skills reflect practical familiarity and the ability to reason about, implement, and extend them in applied settings.*
+*Note: The skills listed here span tools and methods I have learned through a mix of formal study, applied research, and hands-on implementation. While my depth of experience varies across topics, all listed skills reflect practical familiarity and the ability to reason about, implement, and extend them in applied settings.*
 
 **Causal inference and econometrics**  
 Difference-in-Differences, Regression Discontinuity, Instrumental Variables, Matching, Synthetic Control, Event Studies, A/B testing, Double Machine Learning, Causal Forests
@@ -37,6 +31,8 @@ Tableau, Power BI, QGIS, Google Cloud Platform
 ---
 
 ## 📂 List of repositories:
+
+My repositories reflect how I learn, think, and work. Over time, I found that the most effective way for me to truly understand complex ideas is to articulate them clearly in writing and to illustrate them with concrete, reproducible code. Many of these repositories are therefore structured as self-contained learning and reference modules, combining theory, simulations, and implementation in a way that makes concepts easier to reason about and reuse. The tools and frameworks in these repositories come from different sources. Some were learned independently through books. Others emerged from practical constraints in my professional work, where real-world problems required me to quickly acquire, adapt, and operationalize new methods. In several cases, my work pushed me to revisit techniques I had already studied, strengthening them through production use, robustness checks, and clearer abstraction.
 
 **1: credit-risk-lendingclub:** End-to-end machine learning pipeline for credit risk modeling using the LendingClub dataset. Includes data cleaning, feature engineering, EDA, model selection (tree-based models, logistic regression, and ensemble methods), explainability tools (SHAP, feature importance), and a reproducible workflow aligned with industry standards.
 
