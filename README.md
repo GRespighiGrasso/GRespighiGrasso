@@ -42,9 +42,9 @@ My repositories reflect how I learn, think, and work. Over time, I found that th
 
 **4: deep-learning:** XXX
 
-**5: ab-test:** XXX
+**5: ab-test:** This repository presents a practical and conceptual framework for running online experiments at scale. It covers experiment design, metrics, variance, interference, ramping, and long-term effects, combining causal inference intuition with reproducible code examples.
 
-**6: large-language-models:** XXX
+**6: large-language-models:** A research-oriented repository on Large Language Models. Covers theoretical foundations, pre-training paradigms, scaling laws, prompting, alignment, and inference. Emphasis on first principles, mathematical intuition, and open research questions rather than API-level usage.
 
 **7: artificial-intelligence:** XXX
 
