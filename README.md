@@ -20,6 +20,8 @@ My repositories reflect how I learn, think, and work. Over time, I found that th
 
 ## 🧠 My skills
 
+The skills listed here span tools and methods I have learned through a mix of formal study, applied research, and hands-on implementation. While my depth of experience varies across topics, all listed skills reflect practical familiarity and the ability to reason about, implement, and extend them in applied settings.
+
 **Causal inference and econometrics**  
 Difference-in-Differences, Regression Discontinuity, Instrumental Variables, Matching, Synthetic Control, Event Studies, A/B testing, Double Machine Learning, Causal Forests
 
