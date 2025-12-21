@@ -2,7 +2,7 @@
 
 🎓 Ph.D. Candidate in Economics at UC Santa Cruz (expected 2027)  
 📍 Based in Santa Cruz, CA | Originally from Argentina  
-🎯 Bridging causal inference and machine learning to understand how people make decisions and how policies shape behavior.
+🎯 I build end-to-end analytical systems; from identification and modeling, to validation, interpretation, and operational use, to study human behavior and policy-relevant decisions.
 
 ---
 
@@ -12,7 +12,13 @@ I am an applied microeconomist working at the intersection of causal inference, 
 
 ---
 
-## 🧠 Skills
+## 📂 My repositories
+
+My repositories reflect how I learn, think, and work. Over time, I found that the most effective way for me to truly understand complex ideas is to articulate them clearly in writing and to illustrate them with concrete, reproducible code. Many of these repositories are therefore structured as self-contained learning and reference modules, combining theory, simulations, and implementation in a way that makes concepts easier to reason about and reuse. The tools and frameworks in these repositories come from different sources. Some were learned independently through books. Others emerged from practical constraints in my professional work, where real-world problems required me to quickly acquire, adapt, and operationalize new methods. In several cases, my work pushed me to revisit techniques I had already studied, strengthening them through production use, robustness checks, and clearer abstraction.
+
+--
+
+## 🧠 My skills
 
 **Causal inference and econometrics**  
 Difference-in-Differences, Regression Discontinuity, Instrumental Variables, Matching, Synthetic Control, Event Studies, A/B testing, Double Machine Learning, Causal Forests
@@ -38,13 +44,20 @@ Tableau, Power BI, QGIS, Google Cloud Platform
 
 **4: deep-learning:** XXX
 
+**5: ab-test:** XXX
+
+**6: large-language-models:** XXX
+
+**7: artificial-intelligence:** XXX
+
+**8: causal-ai:** XXX
+
 ---
 
 ## 📫 Let’s connect
 
 - ✉️ grespigh@ucsc.edu  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gonzalo-mart%C3%ADn-respighi-grasso-131468177/)  
-- 🔗 [GitHub](https://github.com/GRespighiGrasso)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gonzalo-mart%C3%ADn-respighi-grasso-131468177/)   
 - 🔗 [Google Scholar](https://scholar.google.com/citations?user=2SLtYNAAAAAJ&hl=en)
 
 
