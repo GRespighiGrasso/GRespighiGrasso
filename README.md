@@ -39,7 +39,7 @@ My repositories reflect how I learn, think, and work. Over time, I found that th
 
 **3: structural_change:** A research-oriented and practical framework for detecting structural breaks, data drift, and concept drift in machine learning systems. Includes theory notes, simulation notebooks, Python implementations of drift detectors (ADWIN, DDM, PSI, KS tests), and real-world examples for monitoring model stability over time.
 
-**4: deep-learning:** XXX
+**4: deep-learning:** Personal self-study notes and small coding experiments on deep learning, covering neural networks, CNNs, RNNs, and transformers, with a focus on theory and intuition.
 
 **5: ab-test:** This repository presents a practical and conceptual framework for running online experiments at scale. It covers experiment design, metrics, variance, interference, ramping, and long-term effects, combining causal inference intuition with reproducible code examples.
 
