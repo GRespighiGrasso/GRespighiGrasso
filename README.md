@@ -2,7 +2,6 @@
 
 🎓 Ph.D. Candidate in Economics at UC Santa Cruz (expected 2027)  
 📍 Based in Santa Cruz, CA | Originally from Argentina  
-🎯 I build end-to-end analytical systems; from identification and modeling, to validation, interpretation, and operational use, to study human behavior and policy-relevant decisions.
 
 ---
 
