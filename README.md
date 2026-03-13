@@ -17,24 +17,6 @@ Across industry and academia, my goal is the same: to produce evidence and tools
 
 ---
 
-## 🧠 My skills
-
-*Note: The skills listed here span tools and methods I have learned through a mix of formal study, applied research, and hands-on implementation. While my depth of experience varies across topics, all listed skills reflect practical familiarity and the ability to reason about, implement, and extend them in applied settings.*
-
-**Causal inference and econometrics**  
-Difference-in-Differences, Regression Discontinuity, Instrumental Variables, Matching, Synthetic Control, Event Studies, A/B testing, Double Machine Learning, Causal Forests
-
-**Machine learning & Statistical modeling**  
-Supervised learning (logistic/linear models, tree-based models, XGBoost, LightGBM),  unsupervised learning (clustering, topic modeling, dimensionality reduction), NLP pipelines (sentiment analysis, embeddings, transformer-based models), model evaluation & interpretability (cross-validation, SHAP, permutation importance)
-
-**Programming & Data engineering**  
-Python, R, SQL, Bash, PySpark, ETL processes, cron jobs
-
-**Visualization & Cloud**  
-Tableau, Power BI, QGIS, Google Cloud Platform
-
----
-
 ## 📂 List of repositories:
 
 My repositories reflect how I learn, think, and work. Over time, I found that the most effective way for me to truly understand complex ideas is to articulate them clearly in writing and to illustrate them with concrete, reproducible code. Many of these repositories are therefore structured as self-contained learning and reference modules, combining theory, simulations, and implementation in a way that makes concepts easier to reason about and reuse. The tools and frameworks in these repositories come from different sources. Some were learned independently through books. Others emerged from practical constraints in my professional work, where real-world problems required me to quickly acquire, adapt, and operationalize new methods. In several cases, my work pushed me to revisit techniques I had already studied, strengthening them through production use, robustness checks, and clearer abstraction.
