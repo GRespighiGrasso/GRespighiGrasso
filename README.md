@@ -19,23 +19,37 @@ Across industry and academia, my goal is the same: to produce evidence and tools
 
 ## 📂 List of repositories:
 
-My repositories reflect how I learn, think, and work. Over time, I found that the most effective way for me to truly understand complex ideas is to articulate them clearly in writing and to illustrate them with concrete, reproducible code. Many of these repositories are therefore structured as self-contained learning and reference modules, combining theory, simulations, and implementation in a way that makes concepts easier to reason about and reuse. The tools and frameworks in these repositories come from different sources. Some were learned independently through books. Others emerged from practical constraints in my professional work, where real-world problems required me to quickly acquire, adapt, and operationalize new methods. In several cases, my work pushed me to revisit techniques I had already studied, strengthening them through production use, robustness checks, and clearer abstraction.
+Most repositories are structured as self-contained modules combining theory, simulations, and reproducible code.
 
-**1: credit-risk-lendingclub:** End-to-end machine learning pipeline for credit risk modeling using the LendingClub dataset. Includes data cleaning, feature engineering, EDA, model selection (tree-based models, logistic regression, and ensemble methods), explainability tools (SHAP, feature importance), and a reproducible workflow aligned with industry standards.
+### A) Applied ML
 
-**2: customer-feedback-NLP:** Comprehensive NLP toolkit for analyzing customer feedback. Covers text preprocessing, embeddings (Word2Vec, GloVe, Transformers), topic modeling, sentiment analysis, keyword extraction, and a structured pipeline. Includes theoretical notes and high-quality examples for semantic similarity and sentence embeddings.
+**credit-risk-lendingclub**  
+End-to-end machine learning pipeline for credit risk modeling using the LendingClub dataset, including feature engineering, model selection, and explainability tools.
 
-**3: structural_change:** A research-oriented and practical framework for detecting structural breaks, data drift, and concept drift in machine learning systems. Includes theory notes, simulation notebooks, Python implementations of drift detectors (ADWIN, DDM, PSI, KS tests), and real-world examples for monitoring model stability over time.
+**customer-feedback-NLP**  
+NLP toolkit for analyzing customer feedback using embeddings, topic modeling, and transformer-based models.
 
-**4: deep-learning:** Personal self-study notes and small coding experiments on deep learning, covering neural networks, CNNs, RNNs, and transformers, with a focus on theory and intuition.
+### B) Causal inference & experimentation
 
-**5: ab-test:** This repository presents a practical and conceptual framework for running online experiments at scale. It covers experiment design, metrics, variance, interference, ramping, and long-term effects, combining causal inference intuition with reproducible code examples.
+**ab-test**  
+Practical framework for designing and analyzing online experiments at scale.
 
-**6: large-language-models:** A research-oriented repository on Large Language Models. Covers theoretical foundations, pre-training paradigms, scaling laws, prompting, alignment, and inference. Emphasis on first principles, mathematical intuition, and open research questions rather than API-level usage.
+**causal-ai**  
+Notes and implementations at the intersection of causal inference and machine learning.
 
-**7: artificial-intelligence:** XXX
+### C) Research notes & foundations
 
-**8: causal-ai:** XXX
+**structural_change**  
+Framework for detecting structural breaks, concept drift, and data drift in machine learning systems.
+
+**deep-learning**  
+Self-study notes and experiments on neural networks, CNNs, RNNs, and transformers.
+
+**large-language-models**  
+Research-oriented notes on LLM foundations, scaling laws, alignment, and inference.
+
+**artificial-intelligence**  
+Conceptual notes on AI foundations and emerging research directions.
 
 ---
 
